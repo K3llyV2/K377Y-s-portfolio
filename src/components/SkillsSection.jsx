@@ -24,7 +24,7 @@ const skills = [
   { name: "ChatGPT", level: 90, category: "tools" },
   { name: "Vercel", level: 80, category: "tools" },
   { name: "NoteBook LMS", level: 90, category: "tools" },
-  { name: "Replit", level: 85, category: "tools" },s
+  { name: "Replit", level: 85, category: "tools" },
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];
