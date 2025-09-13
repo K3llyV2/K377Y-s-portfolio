@@ -3,31 +3,30 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
+    title: "Vouge BarberShop Client Logger",
+    description: "A responisive babrershop POS with reports ,loyalty based syysterm and many other features.",
+  image: "/projects/Screenshot_13-9-2025_13351_v0-barber-file-logger.vercel.app.jpeg",
     tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "#",
+    demoUrl: "https://v0-barber-file-logger.vercel.app/",
     githubUrl: "#",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
-    description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "#",
+    title: "consultancy website",
+    description:"High-end consultancy website desinged with tailwind css , Vercel AI and Next.Js .",
+    image: "/projects/project2.pn",
+    tags: ["Tailwind css", "Vercel", "Next.js"],
+    demoUrl: "https://v0-high-end-consultancy-website.vercel.app/",
     githubUrl: "#",
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Fast Food POS",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
+      "Full-featured fast food restaurant POS platform with user authentication and payment processing (m-pesa daraja intergartion) .",
+    image: "/projects/Screenshot_13-9-2025_141432_1ca01d3f-5060-4c1d-b97d-d6d4937f3639-00-2csrdxr4zs4dk.picard.replit.dev.jpeg",
+    tags: ["React", "Node.js", "M-PESA"],
+    demoUrl: "#https://1ca01d3f-5060-4c1d-b97d-d6d4937f3639-00-2csrdxr4zs4dk.picard.replit.dev/",
     githubUrl: "#",
   },
 ];
@@ -100,7 +99,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/machadop1407"
+            href="https://github.com/K3llyV2"
           >
             Check My Github <ArrowRight size={16} />
           </a>
