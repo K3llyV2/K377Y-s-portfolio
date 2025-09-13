@@ -14,7 +14,7 @@ const projects = [
     id: 2,
     title: "consultancy website",
     description:"High-end consultancy website desinged with tailwind css , Vercel AI and Next.Js .",
-    image: "/projects/project2.pn",
+    image: "/projects/project2.png",
     tags: ["Tailwind css", "Vercel", "Next.js"],
     demoUrl: "https://v0-high-end-consultancy-website.vercel.app/",
     githubUrl: "#",
